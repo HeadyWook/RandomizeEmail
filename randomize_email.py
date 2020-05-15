@@ -79,7 +79,6 @@ def print_results(username, password):
 
 
 def main():
-
     length = get_length()
     username, password = start_randomizing(length)
     print_results(username, password)
