@@ -1,3 +1,4 @@
+# Username and password randomizer
 This program creates random usernames and passwords for throwaway email addresses. This spares the mental effort of
 the user for making up a username and password. It also prevents the user from leaking personal identified information
 by avoiding naming bias, such as using variants of an existing email address. Lastly, this program is run on a local
